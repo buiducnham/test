@@ -1,0 +1,2 @@
+User-agent: Facebookbot
+Disallow: https://buiducnham.github.io/test/
